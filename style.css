@@ -129,7 +129,7 @@ a.read-more::after{
 }
 #footer-sidebar{
   color: #fff;
- background: rgb(81, 85, 122);
+ background: #34495e;
  padding: 20px 0;
 }
 .footer-widget a{
@@ -151,7 +151,7 @@ list-style: none;
 }
 #footer{
   color: #fff;
-background: rgb(52, 57, 94);
+background:  #2c3e50;
 padding: 10px 0;
 }
 
