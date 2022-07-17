@@ -82,7 +82,18 @@ background: url("https://images.unsplash.com/photo-1517777298614-cb6eefb19fad?ix
 background-size: cover;
 background-position: center;
 padding: 50px 0;
+ position: relative
 }
+#testimonials:before{
+ background: rgba(52, 73, 94, 0.7);
+ content: '';
+ position: absolute;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ 
+}
+
 .testimonial img{
  width: 110px;
  height: 110px;
